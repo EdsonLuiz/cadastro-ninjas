@@ -1,11 +1,10 @@
-package com.edson.ninja.model;
+package com.edson.mission.model;
 
+import com.edson.ninja.model.Ninja;
 import jakarta.persistence.Entity;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 import lombok.Data;
-import lombok.NoArgsConstructor;
-import lombok.RequiredArgsConstructor;
 
 import java.util.List;
 

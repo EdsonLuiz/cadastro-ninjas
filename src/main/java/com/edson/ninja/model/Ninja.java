@@ -1,5 +1,6 @@
 package com.edson.ninja.model;
 
+import com.edson.mission.model.Mission;
 import jakarta.persistence.*;
 import lombok.*;
 
